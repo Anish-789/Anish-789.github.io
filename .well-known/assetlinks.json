@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.tdesp.app",
+        "sha256_cert_fingerprints": ["66:2D:43:D3:78:C7:7D:51:84:FB:35:CB:08:D4:DD:DC:48:9D:DC:7E:07:F9:46:2F:FE:4C:21:41:5C:EF:CF:51"]
+      }
+    }]
